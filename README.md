@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
-<h3 align="center">Period 3 Parrots</h3>
-<h3 align="center">*Link to Runtime*</h3>
+<h1 align="center">Period 3 Parrots</h1>
+<h1 align="center">*Link to Runtime*</h1>
 
 <!-- TABLE OF CONTENTS -->
 # Table Of Contents
