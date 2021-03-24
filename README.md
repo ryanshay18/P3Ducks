@@ -53,5 +53,6 @@ Team Contributes will be found [HERE](https://github.com/ryanshay18/P3Parrots/gr
 |  Big Idea 4: Computer Systems and Network | 11-15% | 20% |
 |  Big Idea 5: Impact of Computing | 21-26% | 15% |
 
+#Tickets
 <!-- # Previous Assignments -->
 <!-- Can add previous stuff you did here -->
